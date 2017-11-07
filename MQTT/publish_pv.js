@@ -27,7 +27,7 @@ client.on('connect', function(){
 
 function publishTelemetry(){
     i++;
-    client.publish("pv/random", pv[i]);
+    client.publish("pv/random", ""+pv[i]);
     //client.publish("power/random", ""+power_demand[i])
     if(i == pv.length){
         i =0 ;
