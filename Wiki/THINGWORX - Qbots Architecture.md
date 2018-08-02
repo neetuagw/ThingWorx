@@ -1,6 +1,6 @@
 ## We have adopted the Thingmodel of Thingworx to design Architecture for Qbots Platform. ## 
 
-![Qbots_Architecture.PNG](https://bitbucket.org/repo/ngKdEjy/images/2462039536-Qbots_Architecture.PNG)
+(https://bitbucket.org/repo/ngKdEjy/images/2462039536-Qbots_Architecture.PNG)
 
 ## ** 1. PV ThingShape** ##
 
